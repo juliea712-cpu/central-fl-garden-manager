@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Central Florida Garden Manager</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-  </body>
-</html>
+public/
+├─ index.html          <-- required, see below
+├─ favicon.ico         <-- optional, can use default React favicon
+├─ manifest.json       <-- optional, for PWA support
+└─ robots.txt          <-- optional
